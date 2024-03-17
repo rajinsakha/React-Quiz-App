@@ -1,0 +1,65 @@
+{
+    "questions": [
+      {
+        "question": "Which programming language is primarily used for web development?",
+        "options": ["Python", "Java", "JavaScript", "C++"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What does CSS stand for?",
+        "options": ["Cascading Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which of the following tags is used to define a hyperlink in HTML?",
+        "options": ["<a>", "<link>", "<href>", "<hyper>"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What does DOM stand for?",
+        "options": ["Data Object Model", "Document Object Model", "Dynamic Object Model", "Digital Object Model"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which of the following is not a JavaScript framework?",
+        "options": ["Angular", "React", "Vue", "Bootstrap"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "What does HTTP stand for?",
+        "options": ["HyperText Transfer Protocol", "Hyperlink Transfer Protocol", "Hypertext Transmission Protocol", "Hypertext Terminal Protocol"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the file extension for a Cascading Style Sheet?",
+        "options": [".html", ".css", ".js", ".py"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which of the following is not a valid HTTP method?",
+        "options": ["GET", "POST", "PUSH", "DELETE"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "What is the purpose of the <canvas> element in HTML5?",
+        "options": ["To draw graphics using JavaScript", "To embed video content", "To display tabular data", "To create forms"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What is the correct way to comment out multiple lines in JavaScript?",
+        "options": ["// This is a comment", "<!-- This is a comment -->", "/* This is a comment */", "%% This is a comment %%"],
+        "correctOption": 2,
+        "points": 10
+      }
+    ]
+  }
+  
